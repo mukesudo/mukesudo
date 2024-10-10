@@ -1,3 +1,14 @@
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=50199153" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=50199153&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mukesudo" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=50199153&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 - 👋 Hi, I’m @mukesudo
 - 👀 I’m a Fullstack developer whose proficient in Angular and Springboot framework.
 - 😁 Yes, I have a rich history of dabbling with various technologies and skills, but I've moved on to greener pastures.
