@@ -1,7 +1,7 @@
 <!-- Copy-paste in your Readme.md file -->
                           
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6EE7B7&width=500&lines=Hey%2C+I'm+Mukhtar!+👋;Full+Stack+Engineer+%7C+Cloud+%7C+AI;Building+cool+shit+with+tech+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6EE7B7&width=500&lines=Hey%2C+I'm+Mukhtar!+👋;Full+Stack+Engineer+%7C+Cloud+%7C+AI;Building+cool+stuff+with+tech+🚀" />
 
 ---
 
@@ -15,15 +15,17 @@ Tech isn’t just my job, it’s my *playground*.
 - 👉 Here are some of the things I've left behind in my quest for excellence
 
 ### 🎨 Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ⚙️ Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 ### 🤖 Bots & Automation
 ![Telegram](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
@@ -63,6 +65,8 @@ Tech isn’t just my job, it’s my *playground*.
 # 🌐 Let’s Link
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhtar-saeed/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukeee6677@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b723e04027e66b7c)  
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/mukesudo)  
 
 ---
 
