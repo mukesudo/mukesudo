@@ -1,7 +1,5 @@
 <!-- Copy-paste in your Readme.md file -->
                           
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6EE7B7&width=500&lines=Hey%2C+I'm+Mukhtar!+👋;Full+Stack+Engineer+%7C+Cloud+%7C+AI;Building+cool+stuff+with+tech+🚀" />
 
 ---
 
