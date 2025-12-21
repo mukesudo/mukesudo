@@ -10,7 +10,7 @@
     <li><a href="https://bsky.app/profile/itsmuke.bsky.social">Bluesky</a></li>
     <li>Discord: <b>@mukhtarsaeed</b></li>
   </ul>
-  - Andd, check out my <a href="https://www.codewars.com/users/mukesudo">codewars 🔥
+  - Andd, check out my <a href="https://www.codewars.com/users/mukesudo">codewars</a> 🔥
 
 <!---
 mukesudo/mukesudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
