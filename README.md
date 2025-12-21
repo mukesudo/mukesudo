@@ -1,77 +1,16 @@
-<!-- Copy-paste in your Readme.md file -->
-                          
-
----
-
-# ⚡ About Me
-I build **end-to-end systems** that scale — from slick UIs to solid backends.  
-Tech isn’t just my job, it’s my *playground*.  
-
----
-
-# 🛠️ Tech Stack
-- 👉 Here are some of the things I've left behind in my quest for excellence
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-
-### 🤖 Bots & Automation
-![Telegram](https://img.shields.io/badge/-Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 💳 FinTech
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![WSO2](https://img.shields.io/badge/-WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white)
-
----
-
-# 🚀 Vibes
-- 🧩 System thinker — love connecting dots  
-- 🔥 Always building, always shipping  
-- 🌍 Global mindset — tech has no borders  
-- 🎯 Sharp focus, but know when to vibe  
-
----
-
-# 📊 GitHub Stats
-![Mukhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukesudo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukesudo&layout=compact&theme=radical)
-
----
-
-# 🌐 Let’s Link
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukeee6677@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukhtar-saeed/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/doodlingacc?s=21)  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b723e04027e66b7c)  
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/mukesudo)  
-
----
-
-✨ *Building real stuff with real impact.* 
-
-
+- 👋 Hi, I’m @mukesudo
+- I’m a Fullstack Software Engineer with multiple years of experience.
+- I build end-to-end systems that scale from slick UIs to solid backends.
+- 👀 Currently, i am interested in improving my coding skills to develop professional projects.
+- 💞️ Further, I’m looking to collaborate on open source project inorder to learn various design patterns.
+- 📫 How to reach me ...
+  <ul>
+    <li><a href="https://www.linkedin.com/in/mukhtar-saeed/">Linkedin</a></li>
+    <li><a href="https://t.me/geminisnightmare">Telegram</a></li>
+    <li><a href="https://bsky.app/profile/itsmuke.bsky.social">Bluesky</a></li>
+    <li>Discord: <b>@mukhtarsaeed</b></li>
+  </ul>
+  - Andd, check out my <a href="https://www.codewars.com/users/mukesudo">codewars 🔥
 
 <!---
 mukesudo/mukesudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
