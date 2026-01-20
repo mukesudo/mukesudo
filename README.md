@@ -8,7 +8,7 @@
     <li><a href="https://www.linkedin.com/in/mukhtar-saeed/">Linkedin</a></li>
     <li><a href="https://t.me/geminisnightmare">Telegram</a></li>
     <li><a href="https://bsky.app/profile/itsmuke.bsky.social">Bluesky</a></li>
-    <li>Discord: <b>@mukhtarsaeed</b></li>
+    <li><a href="https://discord.gg/FTCd77SvCm">Discord</a></li>
   </ul>
   - Andd, check out my <a href="https://www.codewars.com/users/mukesudo">codewars</a> 🔥
 
